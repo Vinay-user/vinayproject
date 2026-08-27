@@ -128,7 +128,7 @@ credentials.json
 # ============================================================
 
 # Local database files
-*.sql
+
 *.sqlite
 *.sqlite3
 *.db
