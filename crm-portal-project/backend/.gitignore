@@ -1,9 +1,0 @@
-target/
-*.class
-.idea/
-*.iml
-.vscode/
-.DS_Store
-HELP.md
-.mvn/wrapper/maven-wrapper.jar
-application-local.properties
